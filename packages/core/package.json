@@ -31,7 +31,7 @@
     "@rehooks/local-storage": "2.4.4",
     "bignumber.js": "9.1.1",
     "core-js": "3.47.0",
-    "emoji-mart": "5.5.2",
+    "emoji-mart": "5.6.0",
     "is-electron": "2.2.2",
     "isomorphic-fetch": "3.0.0",
     "json-bigint": "1.0.0",
